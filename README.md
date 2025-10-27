@@ -9,3 +9,7 @@ It eliminates manual announcements and reduces communication time。
 ## Technologies
 - Microsoft Power Automate
 - SharePoint
+## Screenshots
+- Workflow Design
+2025-10-27 23_19_14-Greenshot.png
+- Automated Email Example

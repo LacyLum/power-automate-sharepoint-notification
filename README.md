@@ -13,3 +13,23 @@ It eliminates manual announcements and reduces communication time。
 - Workflow Design
 2025-10-27 23_19_14-Greenshot.png
 - Automated Email Example
+## How the Flow Works
+The flow is designed to automatically notify relevant stakeholders when a report is uploaded to a SharePoint document library.
+1. Trigger
+The flow starts when a file is created in the specified SharePoint library using
+When a file is created (properties only).
+
+2. Initialize Variable
+A variable is initialized to store routing or classification information used later in the flow.
+
+3. Switch Control
+A Switch action is used to route the logic based on predefined categories (e.g. device type or report owner).
+Each case manages a different group responsible for that category.
+
+4. Send Email Notification
+After routing, an email is sent using Send an email (V2) with:
+-File name
+-Upload confirmation message
+-Link to the SharePoint document
+
+This structure keeps the flow scalable and easy to maintain when new categories are added.

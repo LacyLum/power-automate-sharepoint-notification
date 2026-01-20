@@ -80,3 +80,26 @@ Example configuration (sensitive information redacted):
 - Email recipients
 
 5. Complete import and Turn on the flow
+
+## 🛠 Customization
+You can easily customize this flow to match different business needs:
+
+- Add new categories
+Add new cases in the Switch action.
+
+- Change notification content
+Modify the subject and body in the Send an email (V2) action.
+
+- Adjust routing logic
+Update variable assignment rules to control how files are categorized.
+
+
+## 💡 Business Value
+This automation helps to:
+
+- Reduce manual follow-up after report uploads
+- Improve visibility and response time
+- Minimize missed reports or delayed actions
+- Standardize notification processes across teams  
+
+It is especially useful for operations, IT support, and reporting workflows where timely awareness is critical.

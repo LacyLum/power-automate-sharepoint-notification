@@ -10,11 +10,6 @@ It eliminates manual announcements and reduces communication time。
 - Microsoft Power Automate
 - SharePoint
 
-### Email Notification Example
-Below is an example of the automated email sent when a report is uploaded to SharePoint.
-
-![Email Example](./Email%20Example.png)
-
 ## How the Flow Works
 The flow is designed to automatically notify relevant stakeholders when a report is uploaded to a SharePoint document library.
 1. Trigger  
@@ -103,3 +98,17 @@ This automation helps to:
 - Standardize notification processes across teams  
 
 It is especially useful for operations, IT support, and reporting workflows where timely awareness is critical.
+
+## Email Notification Example
+Below is an example of the automated email sent when a report is uploaded to SharePoint.
+
+![Email Example](./Email%20Example.png)
+
+
+## Use Cases
+
+- Report distribution and governance
+- IT / Operations reporting
+- Cross-team document tracking
+- Any SharePoint-based submission workflow
+

@@ -10,9 +10,19 @@ It eliminates manual announcements and reduces communication time。
 - Microsoft Power Automate
 - SharePoint
 ## Screenshots
-- Workflow Design
-2025-10-27 23_19_14-Greenshot.png
-- Automated Email Example
+
+# Power Automate Flow Design
+
+The following diagram shows the overall structure of the Power Automate flow.
+
+![Flow Diagram](./T%26D%20Automated%20Email%20Notification%20Flow.png)
+
+## Email Notification Example
+
+Below is an example of the automated email sent when a report is uploaded to SharePoint.
+
+![Email Example](./Email%20Example.png)
+
 ## How the Flow Works
 The flow is designed to automatically notify relevant stakeholders when a report is uploaded to a SharePoint document library.
 1. Trigger

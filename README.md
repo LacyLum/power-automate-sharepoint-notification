@@ -11,13 +11,13 @@ It eliminates manual announcements and reduces communication time。
 - SharePoint
 ## Screenshots
 
-# Power Automate Flow Design
+### Power Automate Flow Design
 
 The following diagram shows the overall structure of the Power Automate flow.
 
 ![Flow Diagram](./T%26D%20Automated%20Email%20Notification%20Flow.png)
 
-## Email Notification Example
+### Email Notification Example
 
 Below is an example of the automated email sent when a report is uploaded to SharePoint.
 

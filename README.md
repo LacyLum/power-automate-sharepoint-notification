@@ -29,10 +29,17 @@ A Switch action is used to route the logic based on predefined categories (e.g. 
 Each case manages a different group responsible for that category.
 
 4. Send Email Notification  
-After routing, an email is sent using Send an email (V2) with:
--File name
--Upload confirmation message
--Link to the SharePoint document
+
+After the routing logic is completed, an email notification is sent using 
+`Send an email (V2)`.
+
+The email includes:
+- File name
+- Uploader information
+- Folder path
+- Direct link to the document
+
+![Import configuration example](./send-email-configuration.png)
 
 This structure keeps the flow scalable and easy to maintain when new categories are added.
 

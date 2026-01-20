@@ -64,7 +64,7 @@ During the import process, connections must be bound to the correct environment.
 - Bind the **Outlook (Send an email V2)** connection to the appropriate user account
 
 Example configuration (sensitive information redacted):
-
+![Import configuration example](./import-connection-example.png)
 
 4. Update parameters if required:
 

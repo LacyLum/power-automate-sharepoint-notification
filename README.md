@@ -23,7 +23,7 @@ When a file is created (properties only).
 
 2. Initialize Variable  
 A variable is initialized to store routing or classification information used later in the flow.
-
+![Variable Diagram](./Variable.png)
 3. Switch Control  
 A Switch action is used to route the logic based on predefined categories (e.g. device type or report owner).
 Each case manages a different group responsible for that category.
